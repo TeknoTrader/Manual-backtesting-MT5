@@ -207,12 +207,6 @@ Business Analyst & MQL Developer
 
 This project was developed to provide traders with a clean, efficient manual trading interface that prioritizes speed and elegance over feature bloat.
 
-**Philosophy:**
-
-> "Perfection is achieved not when there is nothing more to add,
-> but when there is nothing left to take away."
-> — Antoine de Saint-Exupéry
-
 **Special Thanks:**
 
 * The MQL5 community for excellent documentation
