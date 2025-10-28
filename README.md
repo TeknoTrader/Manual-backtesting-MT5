@@ -194,9 +194,12 @@ Distributed under the **MIT License** — free to use, modify, and share with pr
 Business Analyst & MQL Developer
 
 🌐 [MQL5 Profile](https://www.mql5.com/it/users/teknotrader)
+
 🔗 [LinkedIn](https://www.linkedin.com/in/nicolachimenti)
+
 💻 [GitHub](https://github.com/TeknoTrader)
-📧 Email: [nicola.chimenti.work@gmail.com](mailto:assistenza@nicolachimenti.com)
+
+📧 Email: [assistenza@nicolachimenti.com](mailto:assistenza@nicolachimenti.com)
 
 ---
 
