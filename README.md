@@ -246,7 +246,9 @@ This project was developed to provide traders with a clean, efficient manual tra
 ---
 
 **VAT Code**: 02674000464
+
 **Company**: Tekno Trader
+
 **© 2025 Nicola Chimenti. All rights reserved.**
 
 ---
