@@ -193,7 +193,7 @@ Distributed under the **MIT License** — free to use, modify, and share with pr
 **Nicola Chimenti**
 Business Analyst & MQL Developer
 
-🌐 [MQL5 Profile](https://www.mql5.com/it/users/teknotrader)
+🌐 [Website](https://www.nicolachimenti.com)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/nicolachimenti)
 
