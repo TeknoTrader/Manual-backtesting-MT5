@@ -1,5 +1,5 @@
 #property copyright "Nicola Chimenti (@tekno_trader)"
-#property link "https://www.fiverr.com/teknonicola"
+#property link "https://www.nicolachimenti.com"
 #property version   "1.00"
 #property description "Minimalist manual trading interface"
 #property strict
