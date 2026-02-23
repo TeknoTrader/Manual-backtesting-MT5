@@ -197,8 +197,6 @@ Business Analyst & MQL Developer
 
 🔗 [LinkedIn](https://www.linkedin.com/in/nicolachimenti)
 
-💻 [GitHub](https://github.com/TeknoTrader)
-
 📧 Email: [assistenza@nicolachimenti.com](mailto:assistenza@nicolachimenti.com)
 
 ---
